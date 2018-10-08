@@ -12,7 +12,7 @@ function countDown(){
     newVal = 0;
     document.getElementById("outOfCookies").innerHTML = "Oops, all out of cookies!!!!! :(";
   }
-    currentVal = newVal;
+currentVal = newVal;
   document.getElementById("countDownButton").innerHTML = newVal;
   document.getElementById('inParagraphCount').innerHTML = newVal;
 }

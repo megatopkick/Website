@@ -1,0 +1,21 @@
+document.getElementById("cookie10").style.display = 'none';
+
+document.getElementById("cookie9").style.display = 'none';
+
+document.getElementById("cookie8").style.display = 'none';
+
+document.getElementById("cookie7").style.display = 'none';
+
+document.getElementById("cookie6").style.display = 'none';
+
+document.getElementById("cookie5").style.display = 'none';
+
+document.getElementById("cookie4").style.display = 'none';
+
+document.getElementById("cookie3").style.display = 'none';
+
+document.getElementById("cookie2").style.display = 'none';
+
+document.getElementById("cookie1").style.display = 'none';
+
+document.getElementById("cookie0").style.display = 'none';
